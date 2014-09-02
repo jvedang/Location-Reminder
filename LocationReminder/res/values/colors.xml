@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="edittextBackgroundColor">#939393</color>
+    <color name="editTextColor">#FFFFFF</color>
+    <color name="labelTextColor">#DF710D</color>
+    <!-- <color name="labelTextColor">#FF7700</color>  Original color, but looks too bright -->
+    <color name="buttonColor">#DF710D</color>
+    <color name="backgroundColor">#1569C7</color>
+    <color name="footerColor">#BB5422</color>
+    <color name="headerColor">#BB5422</color>
+    <color name="whiteColor">#FFFFFF</color>
+    <color name="blackColor">#000000</color>
+    <color name="grayColor">#736F6E</color>
+    <color name="grayLight">#4A4344</color>
+    <color name="borderColor">#d3d3d3</color>
+    <color name="listDivider">#6D6968</color>
+
+</resources>
