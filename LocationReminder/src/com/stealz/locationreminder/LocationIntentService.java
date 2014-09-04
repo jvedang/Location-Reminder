@@ -1,5 +1,8 @@
 package com.stealz.locationreminder;
 
+/**
+@author - Vedang Jadhav
+**/
 import java.net.URLEncoder;
 import java.util.ArrayList;
 
