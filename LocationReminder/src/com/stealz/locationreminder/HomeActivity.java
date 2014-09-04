@@ -1,5 +1,10 @@
 package com.stealz.locationreminder;
 
+/**
+@author - Vedang Jadhav
+
+**/
+
 import java.util.ArrayList;
 
 import com.google.android.gms.common.ConnectionResult;
