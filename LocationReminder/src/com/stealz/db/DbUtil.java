@@ -1,5 +1,8 @@
 package com.stealz.db;
 
+/**
+@author - Vedang Jadhav
+**/
 import android.content.ContentValues;
 import android.content.Context;
 import android.database.Cursor;
