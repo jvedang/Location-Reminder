@@ -8,3 +8,4 @@ Features:
 2. Dismiss the location to temporarily disable it, so that you can use it next time by just enabling it again.
 
 If any queries mailto:stealz.apps@gmail.com
+
